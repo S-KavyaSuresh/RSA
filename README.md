@@ -40,9 +40,6 @@ The application intentionally limits plaintext length because RSA-OAEP is not in
 
 The learning demo uses small prime values and textbook RSA mathematics so every calculation can be inspected. This mode is intentionally insecure and is only for learning.
 
-## Security note
-
-Do not use the toy RSA demo for real secrets. The application is an educational project designed to make RSA understandable.
 
 ## Structure
 
